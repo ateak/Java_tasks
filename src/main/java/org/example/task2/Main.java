@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         String[] notes = {"Добрый вечер #Питер", "Здравствуй #Москва",
                 "#Москва #Питер а в #Воронеж созрели Апельсины",
-                "#Москва ниеогда не спит"};
+                "#Москва никогда не спит"};
         
         printListTowns(notes);
     }
